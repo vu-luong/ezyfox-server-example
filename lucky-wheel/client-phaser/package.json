@@ -1,0 +1,10 @@
+{
+  "name": "client-phaser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vu Luong",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
